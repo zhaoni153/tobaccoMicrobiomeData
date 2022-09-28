@@ -14,11 +14,7 @@ This study used data from 4 different types of samples: the Zymo standard compri
 The ZMC samples are constructed with a known (theoretical) composition. The theoretical compositions provided by Zymo Research based on kit batch number is: *Staphylococcus*—13.3%, *Bacillus*—15.7%, *Lactobacillus*—18.8%, *Listeria*—15.9%, *Enterococcus*—10.4%, *Salmonella*—11.3%, *Escherichia Shigella*—10.0%, *Pseudomonas*—4.6%.  The ZMC + Matrix samples were created by mixing the Zymo mock communities with the biological matrix from snus tobacco product. Here, the snus samples were prior pasteurized and thus should have very low bacteria counts. In our paper, we stated that "a smokeless tobacco product that is largely free of microbes because it is pasteurized". Only small number of read counts were observed in the Swedish snus samples that corresponds to the eight taxa in the ZMC samples. However, the data presented in this github page included all bacterial counts from the sequencing eventhough filtering was applied for our analysis in the paper. 
 
  
-
-
-The data table included in this github page includes all taxa that were sequenced from the marker gene sequencing. 
-
-contains 105 rows and 88 columns (row names and column names are counted), and mainly consists of two parts. The first part from column 2-79 contains the OTU reads counts of 78 taxa detected by a customized R pipeline and the second part from column 80-88 contains the related metadata information for all 104 samples.
+The data table contains 105 rows and 88 columns. Columns 2-79 contains the OTU reads counts of 78 taxa detected by a customized R pipeline, and the  columns 80-88 contains the related metadata information for all 104 samples.
 
 
 ## Code to reproduce the tables/figures in the paper: 
