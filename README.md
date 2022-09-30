@@ -1,7 +1,7 @@
 # 16s rRNA sequencing data from mock communities and real tobacco samples
 
 ---
-Mo Li (mli171@jhu.edu), Robert E. Tyx (wyu3@cdc.gov), Angel J. Rivera (yic7@cdc.gov), Ni Zhao (nzhao10@jhu.edu),  Glen Satten (GSatten@emory.edu)
+Authors: Mo Li (mli171@jhu.edu), Robert E. Tyx (wyu3@cdc.gov), Angel J. Rivera (yic7@cdc.gov), Ni Zhao (nzhao10@jhu.edu),  Glen Satten (GSatten@emory.edu)
 ---
 ## Overview
 The github page contains the 16s rRNA sequencing data that are used in our paper <br/>
